@@ -1,6 +1,6 @@
 # Concordium Hackathon
 ## My mainnet address
-32ySJo3LbUKXrjtzabHrTyukpeynjaWYhafwrtD6KJgHdx9Qgr
+3jMZnRTTHQDaYmGYN65uhTgJaZzTfiL7q5zNiTbikbdUH51jiW
 
 ## Task 1: Concordium Development Environment
 ### rust
